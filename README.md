@@ -1,2 +1,2 @@
 # beginnerpython
-I tried to reinforce the basic level topics I learned in Python.
+I tried to improve the basic level topics I learned in Python.
